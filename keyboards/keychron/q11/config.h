@@ -23,6 +23,8 @@
 /* handedness */
 #define SPLIT_HAND_MATRIX_GRID A2, A15
 #define SPLIT_HAND_MATRIX_GRID_LOW_IS_RIGHT
+#define SPLIT_LAYER_STATE_ENABLE
+#define SPLIT_MODS_ENABLE
 
 #define MATRIX_MASKED // actual mask is defined by `matrix_mask` in `q11.c`
 
